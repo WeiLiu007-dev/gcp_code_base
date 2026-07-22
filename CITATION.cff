@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the associated manuscript."
+title: "VR-ColorAccept scene-level analysis codebase"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Wei
+  - family-names: Chen
+    given-names: Jiayao
+  - family-names: Marites
+    given-names: Regalia
+version: 1.1.0
+date-released: 2026-07-14
+license: MIT

@@ -1,0 +1,12 @@
+Evidence component,Status,Basis and limitation
+Scene-condition coverage,Verified,600 unique records; 100 scenes x 6 conditions; no missing combinations.
+Stimulus naming and dimensions,Verified,600 JPEG files; consistent Scene###_C# naming; 1600 x 800 pixels.
+AAS and CFS aggregates,Verified as stored variables,Values and ranges were checked; item-level construction was unavailable.
+Within-scene ranks and TI,Verified,Average ranks for ties; all stored TI values matched recalculation.
+Dual utility,Verified as stored formula,Values matched 0.46(AAS)+0.46(CFS)-0.16(TI); coefficient origin unavailable.
+Condition labels C1-C6,Partially documented,Labels and intended roles were retained; executable generation evidence was unavailable.
+Participant protocol,Unavailable,"No individual responses, allocation schedule, demographics, exclusions, or exposure logs."
+Original ethics documentation,Unavailable,Approval/exemption identifier and consent documentation were not included in the retained archive.
+Generation code and checkpoints,Unavailable,"No executable generator, model checkpoint, training log, seed record, or inference history was retained."
+Original collection dates and personnel,Unavailable,The dates and identities associated with original collection and aggregation were not preserved.
+Current secondary-analysis code,Available,"Validation, statistical analysis, sensitivity analysis, diagnostics, correlations, and figure generation are reproducible."

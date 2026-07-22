@@ -1,0 +1,7 @@
+Specification,AAS weight,CFS weight,TI penalty,Leading condition,Leading mean,Scenes led or tied by C6
+Primary,0.46,0.46,0.16,C6,4.3396,100
+Equal_low_TI_penalty,0.5,0.5,0.1,C6,4.75885,99
+Equal_moderate_TI_penalty,0.5,0.5,0.2,C6,4.70135,100
+Aesthetic_priority,0.6,0.4,0.16,C6,4.621700000000001,100
+Cognitive_priority,0.4,0.6,0.16,C6,4.827,99
+High_TI_penalty,0.46,0.46,0.3,C6,4.258542,100

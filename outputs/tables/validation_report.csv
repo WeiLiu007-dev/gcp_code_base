@@ -1,0 +1,17 @@
+check,passed,details
+600 rows,True,rows=600
+100 scenes,True,scenes=100
+100 rows per condition,True,"{'C1': 100, 'C2': 100, 'C3': 100, 'C4': 100, 'C5': 100, 'C6': 100}"
+unique scene-condition keys,True,duplicates=0
+AAS in 1-7,True,"range=[1.4, 6.32]"
+CFS in 1-7,True,"range=[1.4, 6.41]"
+AAS ranks match,True,mismatches=0
+CFS ranks match,True,mismatches=0
+TI values match,True,mismatches=0
+Utility values match,True,mismatches=0
+600 images,True,images=600
+100 images per condition,True,"{'C1': 100, 'C2': 100, 'C3': 100, 'C4': 100, 'C5': 100, 'C6': 100}"
+all images 1600x800,True,nonmatching=0
+unique image filenames,True,duplicate_names=0
+no byte-identical images,True,duplicate_hashes=0
+dataset/image filename match,True,"missing_in_zip=0, extra_in_zip=0"
